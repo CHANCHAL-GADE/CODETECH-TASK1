@@ -6,9 +6,12 @@
 
 # Overview of the Project
 ### Project : Simple Calculator
+---
+![image](https://github.com/user-attachments/assets/97e9d6c5-9a33-4180-b4d6-ac23a9b5310d)
+---
 
-### Objective 
-![image](https://github.com/user-attachments/assets/a0a840ed-a918-43ac-b679-5bbf01b7dc0d)
+
+### Objective
 
 Develop a simple calculator application that performs basic arithmetic operations, including addition, subtraction, multiplication, and division. The application should:
 
